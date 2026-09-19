@@ -8,7 +8,7 @@ Install Pillow, then start the app:
 
 ```
 pip install pillow
-py Untitled-1.py
+py Game.py
 ```
 
 Click **Roll** to get a random number from 1 to 6 and display that die.
