@@ -15,7 +15,7 @@ Click **Roll** to get a random number from 1 to 6 and display that die.
 
 ## Files
 
-- `Untitled-1.py` — game window, roll button, and dice display
+- `Game.py` — game window, roll button, and dice display
 - `images/dice1.png` through `images/dice6.png` — faces for each roll
 - `images/stars.jpg` — canvas background
 - `images/Untitled.png` — roll button image
